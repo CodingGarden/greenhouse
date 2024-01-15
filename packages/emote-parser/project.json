@@ -1,0 +1,30 @@
+{
+  "name": "@greenhouse/emote-parser",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/emote-parser/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/packages/emote-parser",
+        "main": "packages/emote-parser/src/index.ts",
+        "tsConfig": "packages/emote-parser/tsconfig.lib.json",
+        "assets": ["packages/emote-parser/*.md"]
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint",
+      "outputs": ["{options.outputFile}"]
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "reportsDirectory": "../../coverage/packages/emote-parser"
+      }
+    }
+  },
+  "tags": []
+}

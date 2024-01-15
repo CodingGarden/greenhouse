@@ -1,0 +1,736 @@
+{
+  "room": {
+    "_id": 609591,
+    "twitch_id": 413856795,
+    "youtube_id": null,
+    "id": "codinggarden",
+    "is_group": false,
+    "display_name": "CodingGarden",
+    "set": 609613,
+    "moderator_badge": null,
+    "vip_badge": null,
+    "mod_urls": null,
+    "user_badges": {
+      "2": [
+        "samwisegardener"
+      ]
+    },
+    "user_badge_ids": {
+      "2": [
+        519135902
+      ]
+    },
+    "css": null
+  },
+  "sets": {
+    "609613": {
+      "id": 609613,
+      "_type": 1,
+      "icon": null,
+      "title": "Channel: CodingGarden",
+      "css": null,
+      "emoticons": [
+        {
+          "id": 454808,
+          "name": "Pepega",
+          "height": 22,
+          "width": 28,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 673663,
+            "name": "irinka_sol",
+            "display_name": "irinka_sol"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/454808/1",
+            "2": "https://cdn.frankerfacez.com/emote/454808/2",
+            "4": "https://cdn.frankerfacez.com/emote/454808/4"
+          },
+          "status": 1,
+          "usage_count": 240,
+          "created_at": "2020-04-10T06:09:30.194Z",
+          "last_updated": "2020-04-10T13:06:22.783Z"
+        },
+        {
+          "id": 454427,
+          "name": "PepeHurtInside",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 187671,
+            "name": "sion_510n",
+            "display_name": "SioN_510N"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/454427/1",
+            "2": "https://cdn.frankerfacez.com/emote/454427/2",
+            "4": "https://cdn.frankerfacez.com/emote/454427/4"
+          },
+          "status": 1,
+          "usage_count": 20,
+          "created_at": "2020-04-09T03:42:34.402Z",
+          "last_updated": "2020-04-09T15:08:29.015Z"
+        },
+        {
+          "id": 453885,
+          "name": "PepegaSit",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 565255,
+            "name": "regamelol",
+            "display_name": "ReGameLOL"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/453885/1",
+            "2": "https://cdn.frankerfacez.com/emote/453885/2",
+            "4": "https://cdn.frankerfacez.com/emote/453885/4"
+          },
+          "status": 1,
+          "usage_count": 95,
+          "created_at": "2020-04-07T16:42:57.051Z",
+          "last_updated": "2020-04-07T23:34:13.436Z"
+        },
+        {
+          "id": 64785,
+          "name": "PepeLaugh",
+          "height": 29,
+          "width": 30,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 21074,
+            "name": "lukas_wergutz",
+            "display_name": "Lukas_Wergutz"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/64785/1",
+            "2": "https://cdn.frankerfacez.com/emote/64785/2",
+            "4": "https://cdn.frankerfacez.com/emote/64785/4"
+          },
+          "status": 1,
+          "usage_count": 111034,
+          "created_at": "2015-11-12T18:58:14.452Z",
+          "last_updated": "2015-11-14T05:03:36.204Z"
+        },
+        {
+          "id": 231552,
+          "name": "PepeHands",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 73302,
+            "name": "igoresque",
+            "display_name": "igoresque"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/231552/1",
+            "2": "https://cdn.frankerfacez.com/emote/231552/2",
+            "4": "https://cdn.frankerfacez.com/emote/231552/4"
+          },
+          "status": 1,
+          "usage_count": 168718,
+          "created_at": "2018-01-16T18:11:16.933Z",
+          "last_updated": "2018-01-21T00:49:13.221Z"
+        },
+        {
+          "id": 117885,
+          "name": "pepeComfy",
+          "height": 28,
+          "width": 28,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 11942,
+            "name": "weitop",
+            "display_name": "Weitop"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/117885/1",
+            "2": "https://cdn.frankerfacez.com/emote/117885/2",
+            "4": "https://cdn.frankerfacez.com/emote/117885/4"
+          },
+          "status": 1,
+          "usage_count": 787,
+          "created_at": "2016-07-27T16:10:09.582Z",
+          "last_updated": "2016-07-27T16:46:56.277Z"
+        },
+        {
+          "id": 318909,
+          "name": "PepeClown",
+          "height": 30,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 384018,
+            "name": "hustilivestream",
+            "display_name": "HustiLivestream"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/318909/1",
+            "2": "https://cdn.frankerfacez.com/emote/318909/2",
+            "4": "https://cdn.frankerfacez.com/emote/318909/4"
+          },
+          "status": 1,
+          "usage_count": 6566,
+          "created_at": "2019-01-31T18:24:03.283Z",
+          "last_updated": "2019-02-08T19:12:06.778Z"
+        },
+        {
+          "id": 200804,
+          "name": "pepeL",
+          "height": 20,
+          "width": 25,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 111832,
+            "name": "edx_",
+            "display_name": "edx_"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/200804/1",
+            "2": "https://cdn.frankerfacez.com/emote/200804/2",
+            "4": "https://cdn.frankerfacez.com/emote/200804/4"
+          },
+          "status": 1,
+          "usage_count": 3202,
+          "created_at": "2017-07-21T21:01:35.094Z",
+          "last_updated": "2017-07-25T02:43:06.349Z"
+        },
+        {
+          "id": 197689,
+          "name": "PepeREE",
+          "height": 31,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 126372,
+            "name": "steadyox",
+            "display_name": "SteadyOx"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/197689/1",
+            "2": "https://cdn.frankerfacez.com/emote/197689/2",
+            "4": "https://cdn.frankerfacez.com/emote/197689/4"
+          },
+          "status": 1,
+          "usage_count": 4442,
+          "created_at": "2017-07-09T04:12:51.729Z",
+          "last_updated": "2017-07-12T02:28:16.584Z"
+        },
+        {
+          "id": 381875,
+          "name": "KEKW",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 454990,
+            "name": "keesual",
+            "display_name": "Keesual"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/381875/1",
+            "2": "https://cdn.frankerfacez.com/emote/381875/2",
+            "4": "https://cdn.frankerfacez.com/emote/381875/4"
+          },
+          "status": 1,
+          "usage_count": 145184,
+          "created_at": "2019-08-21T12:52:31.691Z",
+          "last_updated": "2019-08-22T10:18:40.115Z"
+        },
+        {
+          "id": 229760,
+          "name": "HandsUp",
+          "height": 20,
+          "width": 38,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 32533,
+            "name": "zugren",
+            "display_name": "Zugren"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/229760/1",
+            "2": "https://cdn.frankerfacez.com/emote/229760/2",
+            "4": "https://cdn.frankerfacez.com/emote/229760/4"
+          },
+          "status": 1,
+          "usage_count": 72326,
+          "created_at": "2018-01-03T16:47:31.205Z",
+          "last_updated": "2018-01-05T03:23:25.055Z"
+        },
+        {
+          "id": 214129,
+          "name": "POGGERS",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 38853,
+            "name": "klotzi",
+            "display_name": "Klotzi"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/214129/1",
+            "2": "https://cdn.frankerfacez.com/emote/214129/2",
+            "4": "https://cdn.frankerfacez.com/emote/214129/4"
+          },
+          "status": 1,
+          "usage_count": 130648,
+          "created_at": "2017-09-24T16:39:39.995Z",
+          "last_updated": "2017-09-25T19:41:48.951Z"
+        },
+        {
+          "id": 128054,
+          "name": "OMEGALUL",
+          "height": 32,
+          "width": 31,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 40215,
+            "name": "dourgent",
+            "display_name": "DourGent"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/128054/1",
+            "2": "https://cdn.frankerfacez.com/emote/128054/2",
+            "4": "https://cdn.frankerfacez.com/emote/128054/4"
+          },
+          "status": 1,
+          "usage_count": 208576,
+          "created_at": "2016-09-10T21:18:46.045Z",
+          "last_updated": "2016-09-11T01:11:24.046Z"
+        },
+        {
+          "id": 67872,
+          "name": "ThisIsFine",
+          "height": 31,
+          "width": 28,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 674,
+            "name": "chaosshadowmkw",
+            "display_name": "ChaosShadowMKW"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/67872/1",
+            "2": "https://cdn.frankerfacez.com/emote/67872/2",
+            "4": "https://cdn.frankerfacez.com/emote/67872/4"
+          },
+          "status": 1,
+          "usage_count": 10217,
+          "created_at": "2015-11-30T16:42:17.464Z",
+          "last_updated": "2016-02-01T18:29:02.915Z"
+        },
+        {
+          "id": 28798,
+          "name": "PressF",
+          "height": 30,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 1465,
+            "name": "naedplays",
+            "display_name": "NaedPlays"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/28798/1",
+            "2": "https://cdn.frankerfacez.com/emote/28798/2",
+            "4": "https://cdn.frankerfacez.com/emote/28798/4"
+          },
+          "status": 1,
+          "usage_count": 16854,
+          "created_at": "2015-06-04T17:48:09.231Z",
+          "last_updated": "2015-06-04T19:16:55.484Z"
+        },
+        {
+          "id": 298485,
+          "name": "pikachuS",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 149671,
+            "name": "ktr4ks_",
+            "display_name": "Ktr4ks_"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/298485/1",
+            "2": "https://cdn.frankerfacez.com/emote/298485/2",
+            "4": "https://cdn.frankerfacez.com/emote/298485/4"
+          },
+          "status": 1,
+          "usage_count": 22391,
+          "created_at": "2018-11-22T12:30:46.129Z",
+          "last_updated": "2018-11-30T07:17:42.039Z"
+        },
+        {
+          "id": 37311,
+          "name": "JUSTDOIT",
+          "height": 32,
+          "width": 31,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 2958,
+            "name": "vaughnwhiskey",
+            "display_name": "VaughnWhiskey"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/37311/1",
+            "2": "https://cdn.frankerfacez.com/emote/37311/2",
+            "4": "https://cdn.frankerfacez.com/emote/37311/4"
+          },
+          "status": 1,
+          "usage_count": 7206,
+          "created_at": "2015-07-07T13:55:16.828Z",
+          "last_updated": "2015-08-03T20:25:17.116Z"
+        },
+        {
+          "id": 103171,
+          "name": "gachiGASM",
+          "height": 28,
+          "width": 24,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 24455,
+            "name": "nitrousgranola",
+            "display_name": "nitrousgranola"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/103171/1",
+            "2": "https://cdn.frankerfacez.com/emote/103171/2",
+            "4": "https://cdn.frankerfacez.com/emote/103171/4"
+          },
+          "status": 1,
+          "usage_count": 66395,
+          "created_at": "2016-05-15T01:00:47.820Z",
+          "last_updated": "2016-05-17T23:19:37.972Z"
+        },
+        {
+          "id": 70179,
+          "name": "FacePalm",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 23089,
+            "name": "the_shed_arcade",
+            "display_name": "The_Shed_Arcade"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/70179/1",
+            "2": "https://cdn.frankerfacez.com/emote/70179/2",
+            "4": "https://cdn.frankerfacez.com/emote/70179/4"
+          },
+          "status": 1,
+          "usage_count": 8180,
+          "created_at": "2015-12-13T14:18:09.840Z",
+          "last_updated": "2015-12-17T16:12:36.891Z"
+        },
+        {
+          "id": 262458,
+          "name": "peepoBlanket",
+          "height": 32,
+          "width": 31,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 172281,
+            "name": "multigrain_cheerios",
+            "display_name": "multigrain_cheerios"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/262458/1",
+            "2": "https://cdn.frankerfacez.com/emote/262458/2",
+            "4": "https://cdn.frankerfacez.com/emote/262458/4"
+          },
+          "status": 1,
+          "usage_count": 51359,
+          "created_at": "2018-07-03T05:48:09.022Z",
+          "last_updated": "2018-07-06T03:20:14.105Z"
+        },
+        {
+          "id": 29990,
+          "name": "HeavyBreathing",
+          "height": 32,
+          "width": 32,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 2,
+            "name": "dansalvato",
+            "display_name": "dansalvato"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/29990/1",
+            "2": "https://cdn.frankerfacez.com/emote/29990/2",
+            "4": "https://cdn.frankerfacez.com/emote/29990/4"
+          },
+          "status": 1,
+          "usage_count": 15122,
+          "created_at": "2015-06-07T14:22:15.350Z",
+          "last_updated": "2015-06-07T14:22:45.665Z"
+        },
+        {
+          "id": 57611,
+          "name": "Hahaa",
+          "height": 28,
+          "width": 28,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 18541,
+            "name": "swagalina",
+            "display_name": "swagalina"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/57611/1",
+            "2": "https://cdn.frankerfacez.com/emote/57611/2",
+            "4": "https://cdn.frankerfacez.com/emote/57611/4"
+          },
+          "status": 1,
+          "usage_count": 11365,
+          "created_at": "2015-10-10T17:15:51.383Z",
+          "last_updated": "2015-10-13T04:28:04.936Z"
+        },
+        {
+          "id": 26694,
+          "name": "GAMEOVER",
+          "height": 16,
+          "width": 71,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 386,
+            "name": "andrick11x",
+            "display_name": "Andrick11x"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/26694/1",
+            "2": "https://cdn.frankerfacez.com/emote/26694/2",
+            "4": "https://cdn.frankerfacez.com/emote/26694/4"
+          },
+          "status": 1,
+          "usage_count": 2805,
+          "created_at": "2015-05-31T20:16:34.794Z",
+          "last_updated": "2015-06-01T18:40:23.672Z"
+        },
+        {
+          "id": 139407,
+          "name": "LULW",
+          "height": 32,
+          "width": 28,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 53544,
+            "name": "ian678",
+            "display_name": "Ian678"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/139407/1",
+            "2": "https://cdn.frankerfacez.com/emote/139407/2",
+            "4": "https://cdn.frankerfacez.com/emote/139407/4"
+          },
+          "status": 1,
+          "usage_count": 150784,
+          "created_at": "2016-11-02T14:52:50.395Z",
+          "last_updated": "2016-11-08T21:26:39.377Z"
+        },
+        {
+          "id": 270930,
+          "name": "widepeepoHappy",
+          "height": 19,
+          "width": 80,
+          "public": true,
+          "hidden": false,
+          "modifier": false,
+          "modifier_flags": 0,
+          "offset": null,
+          "margins": null,
+          "css": null,
+          "owner": {
+            "_id": 306186,
+            "name": "black__tic_tac",
+            "display_name": "black__tic_tac"
+          },
+          "artist": null,
+          "urls": {
+            "1": "https://cdn.frankerfacez.com/emote/270930/1",
+            "2": "https://cdn.frankerfacez.com/emote/270930/2",
+            "4": "https://cdn.frankerfacez.com/emote/270930/4"
+          },
+          "status": 1,
+          "usage_count": 159170,
+          "created_at": "2018-08-04T02:40:31.258Z",
+          "last_updated": "2018-08-04T04:02:23.759Z"
+        }
+      ]
+    }
+  }
+}
